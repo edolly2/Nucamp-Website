@@ -27,6 +27,15 @@ a:hover {
   cursor: pointer;
 }
 
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  /* backdrop-filter: blur(10px); */
+}
+
+.carousel {
+  border: solid #5637dd;
+}
+
 .site-footer {
   background-image: linear-gradient(#cec8ff, white);
   padding: 20px 0;
